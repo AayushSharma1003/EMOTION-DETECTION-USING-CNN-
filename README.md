@@ -160,7 +160,7 @@ pip install tensorflow keras opencv-python numpy scikit-learn pillow tqdm pandas
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/emotion-detection.git
+git clone https://github.com/AayushSharma1003/emotion-detection.git
 cd emotion-detection
 ```
 
